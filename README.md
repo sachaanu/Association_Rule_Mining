@@ -14,3 +14,5 @@ Heatmap of all 3080 rules by Support & Confidence:
 Vizualizing the sorted of the top 20 rules by Lift:
 
 
+<img width="633" alt="screen shot 2017-10-31 at 10 51 56 am" src="https://user-images.githubusercontent.com/26288770/32230660-0c5f11e8-be2a-11e7-86ee-631521cdce8d.png">
+
